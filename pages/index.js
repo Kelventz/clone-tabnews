@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Bracim é feio kkk</h1>
+    return <h1>Bracim ta troll</h1>
 }
 
 export default Home;
